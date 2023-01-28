@@ -1,15 +1,18 @@
-# Intro Assignment 
+# Assignment 1  
 
 ## Output
-
-1 3x3 matrix where a cell is 1 if i == j, else 0
-2 3x3 matrix from #1 and then add 3 to every cell where i ≠j
-3 3x3 matrix from #2 as a 3x2 by deleting the last column from the matrix created
+Binary Input = (010000000111111010111001)
+1 Used double precision to calculate the result value of Binary Input
+2 Using three-digit chopping arithmetic to calculate the result value 
+3 Using three-digit rounding arithmetic to calculate the result value
+4 Compute the absolute and relative error 
+5 Minimum number of terms needed to computer f(1) with error < 10^-4
+6a Determine the number of iterations using the bisection method 
+6b Determine the number of iterations using the newton Raphson method
 
 ## Run Code 
 
 1 pip install -r requirements.txt
-2 pip install -U NumPy
 3 python intro_to_python.py
 
 
