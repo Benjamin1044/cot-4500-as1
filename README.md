@@ -21,7 +21,7 @@ Binary Input = (010000000111111010111001)
 
 1 pip install -r requirements.txt
 
-2 python intro_to_python.py
+2 python assignment_1.py
 
 
 
